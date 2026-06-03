@@ -8,6 +8,7 @@ Currently completing a double-degree MSc at the University of Camerino and Reykj
 
 ## 🔗 Links
 - **[Itch.io](https://macmat01.itch.io/)** - Playable builds of projects in which I contributed
+- **[ORCID](https://orcid.org/0009-0008-6372-0319)** - Research profile
 - **[LinkedIn](https://www.linkedin.com/in/matteo-machella/)** - Professional profile
 
 ## 💻 Tech Stack
