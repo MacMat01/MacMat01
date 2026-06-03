@@ -19,9 +19,9 @@ Currently completing a double-degree MSc at the University of Camerino and Reykj
 ## 📌 Featured Projects
 
 ### 🎮 Game & Tool Development
-- **Project Butterfly (MSc Thesis)** - Unity 2D Mobile Serious Game with swipe-based mechanics, with the goal to raise awareness on sleep conditions
+- **[Project Butterfly (MSc Thesis)](https://macmat01.itch.io/butterfly)** - Unity 2D Mobile Serious Game with swipe-based mechanics, with the goal to raise awareness on sleep conditions
 - **[Weighted Draw System](https://github.com/MacMat01/weighted-draw-system)** - Unity UPM package for random weighted item selection (C#). Part of the MSc Thesis
-- **[GEDE](https://github.com/MacMat01/GEDE)** - Custom Game Engine Development & Architecture (C++) (Coursework)
+- **[GEDE](https://github.com/MacMat01/GEDE)** - Custom Game Engine Development & Architecture (C++ - Coursework)
 
 ### 🃏 AI & Tabletop Integration
 - **Strategic Quotient in Card Games (BSc Thesis)** - Research project with the aim of building a card game with the purpose of measuring the strategic quotient of people
@@ -30,9 +30,9 @@ Currently completing a double-degree MSc at the University of Camerino and Reykj
 
 ### ⚙️ Backend & Systems Architecture
 *Core software engineering projects demonstrating skills applicable to multiplayer architecture, live-ops, and complex game logic.*
-- **[Municipal & Weather APIs](https://github.com/MacMat01/BollettinoMeteoTrento)** - REST/SOAP API development (C#, Java, Spring Boot)
-- **[Prolog Menu System](https://github.com/MacMat01/personalized-menu)** - Rule-based logic system applicable to complex NPC decision-making (Prolog)
-- **[Algorithms & Data Structures](https://github.com/MacMat01/algorithms-and-data-structures)** - High-performance core algorithmic implementations (Java)
+- **[Municipal & Weather APIs](https://github.com/MacMat01/BollettinoMeteoTrento)** - REST/SOAP API development (C#, Java, Spring Boot - Coursework)
+- **[Prolog Menu System](https://github.com/MacMat01/personalized-menu)** - Rule-based logic system applicable to complex NPC decision-making (Prolog - Coursework)
+- **[Algorithms & Data Structures](https://github.com/MacMat01/algorithms-and-data-structures)** - High-performance core algorithmic implementations (Java - Coursework)
 
 ## 🌟 Highlights
 - 🎯 Architecting scalable systems using OOP, Event-Driven, and Entity-Component-System paradigms
