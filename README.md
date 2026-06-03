@@ -40,8 +40,5 @@ Currently completing a double-degree MSc at the University of Camerino and Reykj
 - 📊 Applying data science and machine learning to player telemetry and computer vision
 - 🤝 Actively expanding into C++ engine architecture and ready for collaborative development
 
-## 📊 GitHub Stats
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MacMat01&show_icons=true&theme=dark)](https://github.com/MacMat01)
-
 ---
 *Last updated: June 2026*
