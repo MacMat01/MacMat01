@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm MacMat01 👋
 
-<!--
-**MacMat01/MacMat01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile repository.
 
-Here are some ideas to get you started:
+This special repository (`MacMat01/MacMat01`) controls what appears on my GitHub profile page.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About
+
+- 🌱 I’m currently building and learning through projects on GitHub.
+- 🛠️ I use this space to share code, experiments, and ideas.
+- 📫 You can reach me through GitHub.
+
+Thanks for visiting!
