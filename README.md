@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm **Matteo Machella (MacMat01)**, a Computer Science MSc researcher and game developer. My work specialises in Serious Games, systems architecture, and bridging gameplay programming with robust software engineering.
+I'm **Matteo Machella (MacMat01)**, a Computer Science MSc student and game developer. My work specialises in Serious Games, systems architecture, and bridging gameplay programming with robust software engineering.
 
 ## 🚀 About Me
 
