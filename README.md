@@ -10,7 +10,7 @@ I'm **Matteo Machella (MacMat01)**, a **PhD student in Computer Engineering at t
 - 🎮 Former **Game Developer Intern** at [DE:HIVE GameHub](https://bmx3.itch.io/syslogic) (HTW Berlin), working on the educational game *sys:logic*
 
 ## 🏆 Achievements & Publications
-- 🏅 **Premio Pollicino 2026 Finalist** (IVIPRO): MSc thesis selected among the best research works on video games
+- 🏅 **Premio Pollicino 2026, 3rd Place ex aequo** (IVIPRO): Master's thesis ranked among the best of 51 research works on video games
 - 🏅 **Italian Game 2025 Finalist**: *Che si mangia?* (Unreal Engine 5), co-developed with BitCrafters
 - 📄 **GALA 2026 Games Competition & Exhibition Book of Abstracts**: *Butterfly*, serious game on sleep disorders ([DOI: 10.82324/HORIZONS/AZ002](https://doi.org/10.82324/HORIZONS/AZ002))
 
