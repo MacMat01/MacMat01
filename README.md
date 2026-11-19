@@ -1,10 +1,10 @@
 # Hi there 👋
 
-I'm **Matteo Machella (MacMat01)**, a **PhD student in Computer Engineering at the University of Macerata** and a game developer. My research focuses on **Agentic XR AI**, **ethical AI**, and **serious games**: building user-centric technology with a positive social impact.
+I'm **Matteo Machella (MacMat01)**, a **PhD student in Computer Engineering at the University of Macerata** and a game developer. My research focuses on **Agentic AI and XR**, **ethical AI**, and **serious games**: building user-centric technology with a positive social impact.
 
 ## 🚀 About Me
 
-- 🎓 **PhD student** in *Politics, Society, Technology* (Computer Engineering track) at the [University of Macerata](https://www.unimc.it/) (2026 – 2029), funded by the Marche Region *Dottorati Innovativi* programme in collaboration with local partner companies
+- 🎓 **PhD student** in *Politics, Society, Technology* (Computer Engineering track) at the [University of Macerata](https://www.unimc.it/) (2026 – 2029), member of the VRAI Lab, funded by the Marche Region *Dottorati Innovativi* programme in collaboration with local partner companies
 - 🎓 **MSc in Computer Science (110/110 cum laude)**, double degree from the University of Camerino & Reykjavik University (2026)
 - 🎓 **BSc in Computer Science for Digital Communication**, University of Camerino (2024)
 - 🎮 Former **Game Developer Intern** at [DE:HIVE GameHub](https://bmx3.itch.io/syslogic) (HTW Berlin), working on the educational game *sys:logic*
@@ -20,7 +20,7 @@ I'm **Matteo Machella (MacMat01)**, a **PhD student in Computer Engineering at t
 - **[Itch.io](https://macmat01.itch.io/)**: Playable builds of projects I contributed to
 
 ## 🔬 Research Interests
-- **Agentic XR AI**: intelligent agents in extended reality environments
+- **Agentic AI and XR**: intelligent agents in extended reality environments
 - **AI Ethics**: responsible, transparent, and human-centred AI systems
 - **Serious Games**: games for health and education, designed through endogenous procedural rhetoric
 
